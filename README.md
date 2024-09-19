@@ -1,1 +1,2 @@
 # PRACTIC
+I used the recent StackOverflow survey results and analyzed the data in a Google Colab notebook. I answered key questions about the number of respondents, their work experience, remote work status, and programming languages, with a focus on Python. Additionally, I explored compensation data by country for Python programmers and examined the education levels of top earners. Lastly, I conducted bonus analyses, looking into Python usage across age groups and the most common industries for high-earning remote workers.
